@@ -1,0 +1,16 @@
+02a should be redone without execution of notebooks
+
+https://course.fast.ai/videos/?lesson=11&t=
+
+Wrong youtube video
+viewer https://youtu.be/hPQKzsjTyyQ
+notebooks https://youtu.be/TNVq0kyNQ3E
+affected 07a, 08, 09, 09b, 09c, 10
+
+Lesson 12
+viewer https://youtu.be/vnOpEwmtFJ8
+notebooks https://youtu.be/z9Lj1cV1XTE
+affected 10b 10c 11 11a 12 12a 12b 12c
+
+add
+&autoplay=1 to the course_v3 Video Viwer URL
