@@ -12,5 +12,10 @@ viewer https://youtu.be/vnOpEwmtFJ8
 notebooks https://youtu.be/z9Lj1cV1XTE
 affected 10b 10c 11 11a 12 12a 12b 12c
 
-add
+## TODO
+
 &autoplay=1 to the course_v3 Video Viwer URL
+
+DONE
+revisit 09b review of lesson 11 material in lesson 12
+##### In Lesson 12 Jeremy Howard revisited this notebook  [Jump_to lesson 12 video](https://youtu.be/z9Lj1cV1XTE?t=1497)
